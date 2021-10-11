@@ -12,7 +12,7 @@ script:
 notifcations:
   email:
     reciepients:
-      - jorge.jaime@protonmail.coms
+      - jorge.jaime@protonmail.com
       - trakadev@gmail.com
     on_success: always
     on_failure: always  
