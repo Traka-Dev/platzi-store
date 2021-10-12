@@ -9,7 +9,7 @@ git:
   depth: 3
 script:
   - yarn build
-notifcations:
+notifications:
   slack: trakadev:NI2kR4rU5WA9tDP3ft2HUaVv
   email:
     reciepients:
