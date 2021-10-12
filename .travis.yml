@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifcations:
+  slack: trakadev:NI2kR4rU5WA9tDP3ft2HUaVv
   email:
     reciepients:
       - jorge.jaime@protonmail.com
